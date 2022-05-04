@@ -1,0 +1,39 @@
+img {
+  display: block;
+}
+
+body {
+  padding-left: 70px;
+  text-align: center;
+}
+
+.search-form {
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photo-card {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.info {
+  display: flex;
+  text-align: center;
+  // justify-content: center;
+}
+
+.info-item {
+  text-align: center;
+  font-size: 8px;
+  padding-left: 8px;
+}
+
+.load-more {
+  margin-bottom: 40px;
+}
