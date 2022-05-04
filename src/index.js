@@ -8,6 +8,7 @@ const form = document.querySelector('#search-form');
 const input = document.getElementById('input');
 const loadMoreButton = document.querySelector('.load-more');
 const perPage = 40;
+console.log(perPage);
 
 loadMoreButton.style.visibility = 'hidden';
 
